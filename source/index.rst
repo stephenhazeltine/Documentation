@@ -18,9 +18,11 @@ The three minute tutorial on your language
 
 The famous three-minute series for the hurry ones :-)
 
-* :doc:`genindex`
-* :doc:`modindex`
-* :doc:`search`
+* :doc:`C# (DotNet and Mono) <CSharp_3min>`
+* :doc:`Adobe Air <AdobeAir_3min>`
+* :doc:`C++ <Cplus_3min>`
+* :doc:`Delphi <Delphi_3min>`
+* :doc:`Java <Java_3min>`
 
 The ten minute tutorial on your language
 ========================================
