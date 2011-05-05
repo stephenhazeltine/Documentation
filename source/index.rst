@@ -13,7 +13,7 @@ This documentation will guide you through the DeskMetrics features and will show
 .. toctree::
    :maxdepth: 2
 
-The three minute tutorial on your language
+The 3 minute tutorial on your language
 ==================
 
 The famous three-minute series for the hurry ones :-)
@@ -24,8 +24,13 @@ The famous three-minute series for the hurry ones :-)
 * :doc:`Delphi <Delphi_3min>`
 * :doc:`Java <Java_3min>`
 
-The ten minute tutorial on your language
+The 10 minute tutorial on your language
 ========================================
 
 Wanna get more detail about DeskMetrics? Try one of these and proof that you're not so impatient ;-)
 
+* :doc:`C# (DotNet and Mono) <CSharp_10min>`
+* :doc:`Adobe Air <AdobeAir_10min>`
+* :doc:`C++ <Cplus_10min>`
+* :doc:`Delphi <Delphi_10min>`
+* :doc:`Java <Java_10min>`
