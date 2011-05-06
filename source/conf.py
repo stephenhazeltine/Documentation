@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DeskMetrics Documentation'
+project = u'DeskMetrics'
 copyright = u'2011, DeskMetrics Team'
 
 # The version info for the project you're documenting, acts as replacement for
