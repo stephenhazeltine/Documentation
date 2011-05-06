@@ -6,7 +6,7 @@
 Welcome to DeskMetrics's Documentation
 =======================================
 
-DeskMetrics is an real time analytics platform for desktop and mobile applications. We provide useful user behaviour data, like number of unique executions, path followed inside your software, custom information tracking and more.
+`DeskMetrics <http://deskmetrics.com/>`_ is an real time analytics platform for desktop and mobile applications. We provide useful user behaviour data, like number of unique executions, path followed inside your software, custom information tracking and more.
 
 This documentation will guide you through the DeskMetrics features and will show how you can improve your software information tracking.
 
@@ -17,7 +17,7 @@ The 3 minute tutorial on your language
 The famous three-minute series for the hurry ones :-)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    CSharp_3min
    AdobeAir_3min
