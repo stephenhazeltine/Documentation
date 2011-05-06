@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to DeskMetrics's Documentation
-=====================================================
+=======================================
 
 DeskMetrics is an real time analytics platform for desktop and mobile applications. We provide useful user behaviour data, like number of unique executions, path followed inside your software, custom information tracking and more.
 
@@ -14,7 +14,7 @@ This documentation will guide you through the DeskMetrics features and will show
    :maxdepth: 2
 
 The 3 minute tutorial on your language
-==================
+======================================
 
 The famous three-minute series for the hurry ones :-)
 
@@ -24,13 +24,21 @@ The famous three-minute series for the hurry ones :-)
 * :doc:`Delphi <Delphi_3min>`
 * :doc:`Java <Java_3min>`
 
-The 10 minute tutorial on your language
-========================================
+Libraries API
+==============
 
-Wanna get more detail about DeskMetrics? Try one of these and proof that you're not so impatient ;-)
+Oh, so you're not so hurry. Check out the full documentation of every API that DeskMetrics provide.
 
-* :doc:`C# (DotNet and Mono) <CSharp_10min>`
-* :doc:`Adobe Air <AdobeAir_10min>`
-* :doc:`C++ <Cplus_10min>`
-* :doc:`Delphi <Delphi_10min>`
-* :doc:`Java <Java_10min>`
+* :doc:`C# (DotNet and Mono) <CSharp_API>`
+* :doc:`Adobe Air <AdobeAir_API>`
+* :doc:`C++ <Cplus_API>`
+* :doc:`Delphi <Delphi_API>`
+* :doc:`Java <Java_API>`
+
+DeskMetrics Webservices API
+===========================
+
+DeskMetrics doesn't provide an API for your language? Do you want to build a library for your language? Do you wanna know how the things happen? So you're in the right place.
+
+* :doc:`Introduction - Presenting DeskMetrics Webservices <Introduction_DeskMetrics_WebAPI>`
+* :doc:`DeskMetrics on command-line with cURL <DeskMetrics_Command_Line_curl>`
