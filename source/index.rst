@@ -10,6 +10,12 @@ DeskMetrics is an real time analytics platform for desktop and mobile applicatio
 
 This documentation will guide you through the DeskMetrics features and will show how you can improve your software information tracking.
 
+
+The 3 minute tutorial on your language
+======================================
+
+The famous three-minute series for the hurry ones :-)
+
 .. toctree::
    :maxdepth: 2
 
@@ -18,17 +24,6 @@ This documentation will guide you through the DeskMetrics features and will show
    Cplus_3min
    Delphi_3min
    Java_3min
-
-The 3 minute tutorial on your language
-======================================
-
-The famous three-minute series for the hurry ones :-)
-
-* :doc:`C# (DotNet and Mono) <CSharp_3min>`
-* :doc:`Adobe Air <AdobeAir_3min>`
-* :doc:`C++ <Cplus_3min>`
-* :doc:`Delphi <Delphi_3min>`
-* :doc:`Java <Java_3min>`
 
 Libraries API
 ==============
