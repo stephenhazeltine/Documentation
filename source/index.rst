@@ -13,6 +13,12 @@ This documentation will guide you through the DeskMetrics features and will show
 .. toctree::
    :maxdepth: 2
 
+   CSharp_3min
+   AdobeAir_3min
+   Cplus_3min
+   Delphi_3min
+   Java_3min
+
 The 3 minute tutorial on your language
 ======================================
 
