@@ -75,7 +75,7 @@ Just like TrackCustomDataR, but it stores the custom data if it can't be sent in
 
 This method can be used to track time-consuming operations (like a form-fill by a user or a disk de fragmentation by some utility tool).
 
-The EventTime parameter is the time spent on the event and the Completed parameter is used to inform to DeskMetrics if the event was completed successfully (false if it was cancelled/aborted and true, otherwise).  
+The EventTime parameter is the time spent on the event (in seconds) and the Completed parameter is used to inform to DeskMetrics if the event was completed successfully (false if it was cancelled/aborted and true, otherwise).  
 
 .. cpp:function:: void TrackLog(string Message)
 
