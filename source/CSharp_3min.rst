@@ -3,6 +3,8 @@ Integrating DeskMetrics into your C# application - The three minute version
 
 This short tutorial will guide you through the basics of our API for C# applications. The examples are made using Visual Studio 2010, but it works well with Monodevelop running under Linux and MacOSX.
 
+Don't forget to check the :doc:`Complete DeskMetrics C# API reference <CSharp_API>`.
+
 Be prepared...
 
 1 - The first minute - Hello, DeskMetrics! 
@@ -142,3 +144,5 @@ In this example, we track an button click and we send the user email address to 
 ------------------
 
 We hope that this basic tutorial was useful to you. If you missed something, you can :download:`download the entire project <doc_static/DeskMetricsDemoApp.zip>` and make the things works by yourself :-) 
+
+Also, don't forget to check the :doc:`Complete DeskMetrics C# API reference <CSharp_API>`.
