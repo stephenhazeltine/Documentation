@@ -1,5 +1,5 @@
 Integrating DeskMetrics into your Java application - The three minute version
-=======
+==============================================================================
 
 This short tutorial will guide you through the basics of our API for Java applications. In this tutorial, we're using NetBeans 6.9 under Ubuntu Linux 10.10 and Java 1.6.0_20.
 

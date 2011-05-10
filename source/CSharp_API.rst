@@ -36,7 +36,7 @@ This is the two basic methods of Watcher object.
 
 .. note::
 
-    You can get your application id in http://analytics.deskmetrics.com/
+    You can get your application id at http://analytics.deskmetrics.com/
 
 
 The Watcher object has the following methods:
@@ -90,7 +90,7 @@ Tracks an exception with its attributes (stack trace, source, target site and me
 Services object. Useful for some proxy and timeout configurations. See its documentation below.
 
 The Deskmetrics.Service class
------------------
+------------------------------
 
 Responsible for the DeskMetrics API communication layer. It has some public attributes which can be used to configure some aspects of network communication between the DeskMetrics' user and server.
 
