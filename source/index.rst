@@ -41,5 +41,5 @@ DeskMetrics Webservices API
 
 DeskMetrics doesn't provide an API for your language? Do you want to build a library for your language? Do you wanna know how the things happen? So you're in the right place.
 
-* :doc:`Introduction - Presenting DeskMetrics Webservices <Introduction_DeskMetrics_WebAPI>`
+* :doc:`DeskMetrics HTTP API documentation <DeskMetrics_HTTP_API_Documentation>`
 * :doc:`DeskMetrics on command-line with cURL <DeskMetrics_Command_Line_curl>`
