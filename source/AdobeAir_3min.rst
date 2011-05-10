@@ -97,3 +97,6 @@ DeskMetrics provide a full-featured framework for you track any user action insi
 -----------------
 
 We hope that this basic tutorial was useful to you. If you missed something, you can :download:`download the entire project <doc_static/DeskMetricsAirDemoApp.zip>` and make the things works by yourself :-) 
+
+Also, don't forget to look the complete :doc:`DeskMetrics API documentation for Air <AdobeAir_API>`
+
