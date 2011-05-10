@@ -137,7 +137,7 @@ Just add those controls on your form. Our code will look like this:
         }
     }
 
-In this example, we track an button click and we send the user email address to our analytics as a *custom data*. If you wanna track anything that DeskMetrics doesn't provide default way, you can track it as a *custom data*. You can even track custom data in real time, using the *TrackCustomDataR* method.  There is a lot of cool stuff availble on DeskMetrics :-)
+In this example, we track an button click and we send the user email address to our analytics as a *custom data*. If you wanna track anything that DeskMetrics doesn't provide default way, you can track it as a *custom data*. You can even track custom data in real time, using the *TrackCustomDataR* method.  There is a lot of cool stuff available on DeskMetrics :-)
 
 
 4 - What is next?
