@@ -53,7 +53,8 @@ This code talk by itself:
 
 The two methods call (Start and Stop) **are mandatory**. The *Start* method is responsible for the machine information gathering (like OS, plugins and VMs, hardware, etc)  and the *Stop* method  will send the gathered data to DeskMetrics Analytics.
 
-In short: **your app won't work if you don't call these two methods in order in your application**
+ .. warning:: 
+    your app won't work if you don't call these two methods in order in your application
 
 Where is my app id?
 ^^^^^^^^^^^^^^^^^^^

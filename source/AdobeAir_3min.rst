@@ -55,6 +55,9 @@ For this very first moment, we'll only add the 'DeskMetricsTracker.Start' and 'D
 
 Well, that's it. You only need to call 'DeskMetricsTracker.Start' when application starts and 'DeskMetricsTracker.Stop' when it finishes.
 
+ .. warning:: 
+    your app won't work if you don't call these two methods in order in your application
+
 Where is my app id?
 ^^^^^^^^^^^^^^^^^^^
 
