@@ -1,5 +1,5 @@
 Integrating DeskMetrics into your Adobe Air application - The three minute version 
-=========
+====================================================================================
 
 In this tutorial, we'll show you how to use the DeskMetrics API for Adobe Air applications. Our API works well with Adobe Air 2.6 for Desktop applications in either Flex 3, 4 and 4.5. We will provide support for mobile applications with Adobe Air in few weeks. Stay tuned.
 
