@@ -90,7 +90,7 @@ After the first run and after you've closed your application, you can see the da
   
   Mission complete, your first integration was done! You can see this data on your application's Dashboard
 
-3 - Thrid minute - Adding some event tracking 
+3 - Third minute - Adding some event tracking 
 ----------------------------------------------
 
 What we've done so far was just simple experiments on how DeskMetrics works. In order to produce a more useful application, you'll need more than just tracks its starts and stop events. We extended the previous example to show you more about DeskMetrics' features:
