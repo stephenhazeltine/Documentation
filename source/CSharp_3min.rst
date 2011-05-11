@@ -80,7 +80,7 @@ After the first run and after you've closed your application, you can see the da
   
   Mission complete, your first integration was done! You can see this data on your application's Dashboard
 
-3 - Thrid minute - Adding some event tracking 
+3 - Third minute - Adding some event tracking 
 ----------------------------------------------
 
 
