@@ -1,5 +1,5 @@
 DeskMetrics for Adobe Air runtime - Complete API reference
------------------------------------------------------------
+===========================================================
 
 You'd probably introduced to DeskMetrics through the :doc:`three minute tutorial<AdobeAir_3min>`, which cover basic things like downloading our SWC, adding it as a compiler reference and making a very simple example using the DeskMetrics platform. If you didn't read it, we recommend reading it before reading the complete documentation.
 

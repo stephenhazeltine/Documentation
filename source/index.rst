@@ -30,15 +30,21 @@ Libraries API
 
 Oh, so you're not so hurry. Check out the full documentation of every API that DeskMetrics provide.
 
-* :doc:`C# (DotNet and Mono) <CSharp_API>`
-* :doc:`Adobe Air <AdobeAir_API>`
-* :doc:`C++ <Cplus_API>`
-* :doc:`Delphi <Delphi_API>`
-* :doc:`Java <Java_API>`
+.. toctree::
+    :maxdepth: 1
+    
+    CSharp_API
+    AdobeAir_API
+    CPlus_API
+    Delphi_API
+    Java_API
 
 DeskMetrics Webservices API
 ===========================
 
 DeskMetrics doesn't provide an API for your language? Do you want to build a library for your language? Do you wanna know how the things happen? So you're in the right place.
 
-* :doc:`DeskMetrics HTTP API documentation <DeskMetrics_HTTP_API_Documentation>`
+.. toctree::
+    :maxdepth: 1
+
+    DeskMetrics_HTTP_API_Documentation

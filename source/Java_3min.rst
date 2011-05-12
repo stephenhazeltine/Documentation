@@ -13,7 +13,7 @@ This first step is pretty basic stuff. We'll create a "Java Application" project
 After the project was created, add the DeskMetrics' jar as a project library. To do so, download our jar (https://github.com/downloads/deskmetrics/jDeskMetrics/jDeskMetrics.jar), and add it to your app by right-clicking Libraries and selecting the **Add Jar/Folder** option, just like the image below:
 
 
-.. figure:: _static/java_add_lib.png
+.. figure:: doc_static/java_add_lib.png
   :alt: Adding a JAR to your project
 
 Most of the code we're showing below is just Java's boilerplate. Skipping to the important part, you just need to call *deskmetrics.start* and *deskmetrics.stop* to for your app start working with minimal features.  **Note: you'll need more than start and stop methods to track all events you want on your application. Continue the reading :-)**
@@ -73,7 +73,7 @@ Where is my app id?
 
 You need the app id for the Start method. This ID identifies your application on DeskMetrics Analytics. Go to http://analytics.deskmetrics.com/ and you'll see something like this:
 
-.. figure:: _static/app_id.png
+.. figure:: doc_static/app_id.png
   :alt: Showing where you can get the application ID 
 
   You can find this on DeskMetrics' Analytics page (http://analytics.deskmetrics.com/)
@@ -85,7 +85,7 @@ Just run the app and closes it in sequence. Yeah, it will be an empty form, but 
 
 After the first run and after you've closed your application, you can see the data on the Analytics: 
 
-.. figure:: _static/first_run.png
+.. figure:: doc_static/first_run.png
   :alt: Mission complete, your first integration was done!  
   
   Mission complete, your first integration was done! You can see this data on your application's Dashboard

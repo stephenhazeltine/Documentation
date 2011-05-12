@@ -63,7 +63,7 @@ Where is my app id?
 
 You need the app id for the Start method. This ID identifies your application on DeskMetrics Analytics. Go to http://analytics.deskmetrics.com/ and you'll see something like this:
 
-.. figure:: _static/app_id.png
+.. figure:: doc_static/app_id.png
   :alt: Showing where you can get the application ID 
 
   You can find this on DeskMetrics' Analytics page (http://analytics.deskmetrics.com/)
@@ -75,7 +75,7 @@ Just run the app and closes it in sequence. Yeah, it will be an empty form, but 
 
 After the first run and after you've closed your application, you can see the data on the Analytics: 
 
-.. figure:: _static/first_run.png
+.. figure:: doc_static/first_run.png
   :alt: Mission complete, your first integration was done!  
   
   Mission complete, your first integration was done! You can see this data on your application's Dashboard
@@ -86,7 +86,7 @@ After the first run and after you've closed your application, you can see the da
 
 DeskMetrics provide a full-featured framework for you track any user action inside your software. Wanna know how much time an user takes to fill a form? No problem,just use the *TrackEventTimed* method. Do you wanna know how many times a specific button got clicked? No problem, just use the *TrackEvent* method and you'll be done. In our sample app, we can do something like this:
 
-.. figure:: _static/first_dot_net_app.png
+.. figure:: doc_static/first_dot_net_app.png
     :alt: Our first .NET app tracked with DeskMetrics
 
     Our first .NET app tracked with DeskMetrics. 
