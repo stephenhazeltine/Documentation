@@ -1,4 +1,4 @@
-DeskMetrics for .NET and Mono - Complete API reference
+DeskMetrics for Java - Complete API reference
 =======================================================
 
 You'd probably introduced to DeskMetrics through the :doc:`three minute tutorial<Java_3min>`, which cover basic things like downloading our assembly, adding it CLASSPATH and making a very simple example using the DeskMetrics platform. If you didn't read it, we recommend reading it before reading the complete documentation.
