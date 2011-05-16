@@ -6,9 +6,9 @@
 Welcome to DeskMetrics's Documentation
 =======================================
 
-`DeskMetrics <http://deskmetrics.com/>`_ is an real time analytics platform for desktop and mobile applications. We provide useful user behaviour data, like number of unique executions, path followed inside your software, custom information tracking and more.
+`DeskMetrics <http://deskmetrics.com/>`_ is a real time analytics platform for desktop and mobile applications. We provide useful user behaviour data, like number of unique executions, path followed inside your software, custom information tracking and more.
 
-This documentation will guide you through the DeskMetrics features and will show how you can improve your software information tracking.
+This documentation will guide you through DeskMetrics' features and will show how you can improve your software information tracking.
 
 
 The 3 minute tutorial on your language
@@ -28,7 +28,7 @@ The famous three-minute series for the hurry ones :-)
 Libraries API
 ==============
 
-Oh, so you're not so hurry. Check out the full documentation of every API that DeskMetrics provide.
+Oh, so you're not in a hurry. Check out the full documentation of every API that DeskMetrics provide.
 
 .. toctree::
     :maxdepth: 1
@@ -42,7 +42,7 @@ Oh, so you're not so hurry. Check out the full documentation of every API that D
 DeskMetrics Webservices API
 ===========================
 
-DeskMetrics doesn't provide an API for your language? Do you want to build a library for your language? Do you wanna know how the things happen? So you're in the right place.
+DeskMetrics doesn't provide an API for your language? Do you want to build a library for your language? Do you wanna know how to make these things happen? You're in the right place.
 
 .. toctree::
     :maxdepth: 1
